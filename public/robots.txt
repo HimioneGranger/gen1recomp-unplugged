@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://himionegranger.github.io/gen1recomp-unplugged/sitemap.xml

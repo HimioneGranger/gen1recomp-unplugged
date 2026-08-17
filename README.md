@@ -4,7 +4,7 @@ This is the public website for **Gen1Recomp VR Unplugged**. It is deliberately
 plain HTML and CSS so either project partner can update it without installing a
 framework or build tool.
 
-Live site: `https://himionegranger.github.io/Gen1QuestVR-Site/`
+Live site: `https://himionegranger.github.io/gen1recomp-unplugged/`
 
 ## Editing the site
 
